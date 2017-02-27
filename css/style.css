@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+button {
+  margin-top: 30vh;
+  border: 2px solid black;
+  padding: 10px 20px;
+}
+
+p {
+  font-size: 30px;
+  margin-top: 30px;
+  color: black; 
+}
